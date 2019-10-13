@@ -1,0 +1,2 @@
+# even_permutations
+Problem statement: What are the three numbers from 1 to 30, when summed gives 30? Like the rollers on a 3-digit-combination padlock, the codes produces a set of even number combinations from 2 to 30, and later filters out combinations that when summed gives 30 for both cases when repetition of an even number is allowed and otherwise. Codes can be easily modified to work for summation of 3 even numbers to any given even number.
